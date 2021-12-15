@@ -21,3 +21,4 @@ def findLargestTraingle(A):
 
 if __name__ == "__main__":
     print(findLargestTraingle([10, 2, 5, 1, 8, 20]))
+    
