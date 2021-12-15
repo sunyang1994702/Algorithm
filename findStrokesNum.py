@@ -38,5 +38,6 @@ def findStrokesNum(A):
     return sum(arr)
 
 
+
 if __name__ == "__main__":
     print(findStrokesNum([1,3,2,1,2,1,5,3,3,4,2]))
