@@ -10,7 +10,6 @@ Idea: following Kadane theroy.
 
 def maxSubArray(nums):
     max_c, max_g = nums[0], nums[0]
-    index = [0, 0]
     for i in range(1, len(nums)):
         max_c = max(nums[i], nums[i] + max_c)
         if max_c > max_g:
