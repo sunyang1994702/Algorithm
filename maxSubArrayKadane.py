@@ -17,7 +17,6 @@ def maxSubArray(nums):
             
     return max_g
 
-
 """
 Given an integer array nums,
 find the contiguous subarray which has the largest sum and return its sum and subArray
