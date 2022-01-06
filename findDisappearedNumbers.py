@@ -7,7 +7,7 @@ Example 1:
 Input: nums = [4,3,2,7,8,2,3,1]
 Output: [5,6]
 
-Important: O(n) time complexity. O(1) space complexity.
+Important: O(n) time complexity. O(n) space complexity without extra space.
 """
 
 ## Method_1: using set.
